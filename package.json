@@ -1,0 +1,14 @@
+{
+  "name": "entrega-final-api",
+  "version": "1.0.0",
+  "description": "Entrega Final CoderHouse JS Curso",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "author": "Nicolas Ariel Cinzer",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}

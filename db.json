@@ -10,27 +10,19 @@
     },
     {
       "item": "Cristiano Ronaldo Gucci Jacket",
-      "lastPrice": 45000,
-      "lastBidder": "Juan Cruz Palo",
-      "initialPrice": 1800,
-      "amountBidders": 10,
+      "lastPrice": 90000,
+      "lastBidder": "Nicolas Cinzer",
+      "amountBidders": 11,
+      "initialPrice": null,
       "id": 2
     },
     {
       "item": "Di Caprio Lamborghini",
-      "lastPrice": 499999,
-      "lastBidder": "Aitor Tilla",
+      "lastPrice": 900000,
+      "lastBidder": "Nicolas Cinzer",
+      "amountBidders": 99,
       "initialPrice": 200000,
-      "amountBidders": 98,
       "id": 3
-    },
-    {
-      "item": "Old Statue from Paris",
-      "lastPrice": 500,
-      "lastBidder": "Juan Pedro Rivera",
-      "initialPrice": 140,
-      "amountBidders": 190,
-      "id": 4
     }
   ]
 }
